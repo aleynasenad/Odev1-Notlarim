@@ -1,0 +1,7 @@
+C:\Users\Aleyna\source\repos\Git Ödevi\Git Ödevi\bin\Debug\Git Ödevi.exe.config
+C:\Users\Aleyna\source\repos\Git Ödevi\Git Ödevi\bin\Debug\Git Ödevi.exe
+C:\Users\Aleyna\source\repos\Git Ödevi\Git Ödevi\bin\Debug\Git Ödevi.pdb
+C:\Users\Aleyna\source\repos\Git Ödevi\Git Ödevi\obj\Debug\Git Ödevi.csproj.AssemblyReference.cache
+C:\Users\Aleyna\source\repos\Git Ödevi\Git Ödevi\obj\Debug\Git Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\source\repos\Git Ödevi\Git Ödevi\obj\Debug\Git Ödevi.exe
+C:\Users\Aleyna\source\repos\Git Ödevi\Git Ödevi\obj\Debug\Git Ödevi.pdb
